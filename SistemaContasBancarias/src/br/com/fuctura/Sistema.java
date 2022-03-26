@@ -63,7 +63,6 @@ public class Sistema {
 			
 			
 			System.out.println(usuRepo.obterUsuario(2));
-			System.out.println("\n----------------\n");
 			System.out.println(usuRepo.listarTodos());
 			
 
